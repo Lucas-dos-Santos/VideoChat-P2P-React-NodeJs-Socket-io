@@ -2,12 +2,10 @@
 
 Video Chat is a App to meetings
 
-## Installation
-
-
 ## Usage
+Backend Url: https://video-chat-nodejs-socket-io.fly.dev
 
-
+Frontend Url:
 
 ## Contributing
 
