@@ -1,0 +1,21 @@
+.video {
+	width: 550px;
+
+	@media screen and (max-width: 800px) {
+		width: 300px;
+	}
+}
+
+.grid-container {
+	justify-content: center;
+
+	@media screen and (max-width: 800px) {
+		flex-direction: column;
+	}
+}
+
+.paper {
+	padding: 10px;
+	border: 2px solid black;
+	margin: 10px;
+}
