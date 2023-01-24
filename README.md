@@ -5,7 +5,7 @@ Video Chat is a App to meetings
 ## Usage
 Backend Url: https://video-chat-nodejs-socket-io.fly.dev
 
-Frontend Url:
+Frontend Url: https://teal-trifle-af0230.netlify.app/
 
 ## Contributing
 
