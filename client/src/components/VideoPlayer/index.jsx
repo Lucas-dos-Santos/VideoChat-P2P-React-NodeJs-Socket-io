@@ -23,7 +23,7 @@ const VideoPlayer = () => {
           <Typography variant="h5" gutterBottom>
             {name || 'Myname'}
           </Typography>
-          <video playsInline ref={myVideo} autoPlay className="video" />
+          <video playsInline ref={myVideo} muted autoPlay className="video" />
         </Grid>
       </Paper>
       )}
